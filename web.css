@@ -50,7 +50,7 @@ a{text-decoration:none;
     background-position: center;
     background-size: cover;
     width: 100%;
-    background-image: url("/img/b1.jpg");
+    background-image: url("index/img/b1.jpg");
     filter:grayscale(40%);
     min-height: 100%;
 }
